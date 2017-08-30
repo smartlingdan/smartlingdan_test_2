@@ -17,7 +17,7 @@
 
          {
             "type"      : "javaProperties",
-            "pathRegex" : "/Etsy/en/.*\\.properties",
+            "pathRegex" : "\\/Etsy\\/en\\/.*\\.properties",
             "translationPathExpression" : "/Etsy/${locale}/${originalFile.baseName}_${locale}.${originalFile.extension}",
             "translationCommitMessage"  : "Translate ${originalFile.fullName} to ${locale}"
          }
