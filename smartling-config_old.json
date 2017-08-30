@@ -6,16 +6,16 @@
     //    application - the corresponding locale name in your system. This value is used in the translation commit message
     "locales": [
          {
-             "smartling" : "fr-FR",
-             "application" : "fr-FR"
+             "smartling" : "de-DE",
+             "application" : "de-DE"
          },
         {
              "smartling" : "pt-BR",
              "application" : "pt-BR"
          },
          {
-             "smartling" : "es",
-             "application" : "es"
+             "smartling" : "ja-JP",
+             "application" : "ja-JP"
          }
      ],
 
@@ -40,7 +40,7 @@
          // Minimal recourse set definition. Translations won't be pushed back.
          {
             "type"      : "javaProperties",
-            "pathRegex" : "/messages/.*\\.properties"
+            "pathRegex" : "/Etsy/en/.*\\.properties"
          },
          {
             "type"      : "json",
