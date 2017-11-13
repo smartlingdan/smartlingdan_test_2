@@ -14,7 +14,6 @@
          }
      ],
      "resourceSets": [
-
          {
             "type"      : "javaProperties",
             "pathRegex" : "Client\\/en\\/.*\\.properties",
