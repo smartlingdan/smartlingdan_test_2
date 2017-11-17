@@ -15,5 +15,5 @@
 	<!-- Button that asks the user to create a Dyson account to manage their devices -->
     <string name="sign_in_create_login">Create Dyson Account</string>
     <string name="sign_in_submit">Sign in</string>
-    <string name="text_separator_or">or</string>
+    <string name="text_separator_or">Or</string>
 </resources>
