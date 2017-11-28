@@ -17,6 +17,7 @@
          {
             "type"      : "android",
             "pathRegex" : "Client\\/en\\/.*\\.xml",
+             "translationPathExpression" : "/Client/${locale}/${originalFile.baseName}_${locale}.${originalFile.extension}",
             "translationCommitMessage"  : "Translate ${originalFile.fullName} to ${locale}"
          }
      ]
