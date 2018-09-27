@@ -1,0 +1,39 @@
+/*
+  Localizable.strings
+  PayPal
+
+  Created by Dan Juliano.
+
+*/
+
+
+
+"Available" = "Available >";
+"RecentActivityTitle" = "RECENT ACTIVITY";
+"MoneySent" = "Money sent";
+"MoneyReceived" = "Money received";
+"ViewAll" =  "View All";
+"UnpaidInvoices" = "Unpaid Invoices";
+"InvoiceTitleNumber" = "Invoice #%.f";
+"InvoiceDate" = "Invoice Date";
+"DueDate" = "Due Date";
+"ItemOrService" = "Item or Service";
+"Subtotal" = "Subtotal";
+"Discount" = "Discount";
+"Shipping" = "Shipping";
+"Save" = "Save";
+"Send" = "Send";
+"ActivityTitle" = "Activity";
+"All" = "All";
+"Recieved" = "Recieved";
+"Sent" = "Sent";
+"Customers" = "Customers";
+"HomeMenu" = "Home";
+"MoneyMenu" = "Money";
+"InvoicingMenu" = "Invoicing";
+"CustomersMenu" = "Customers";
+"MoneyTitle" = "Money";
+"TransferToBankButton" = "Transfer to bank";
+"SendMoneyButton" = "Send Money";
+"PaidInvoices.one" = "%d Paid Invoice";
+"PaidInvoices.other" = "%d Paid Invoices";
